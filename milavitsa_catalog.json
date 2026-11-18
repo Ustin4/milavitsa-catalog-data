@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-18T23:29:59+03:00",
+  "generated_at": "2026-11-18T23:41:19+03:00",
   "stock_as_of": null,
   "source_files": {
     "main": "Бланк.xls",
@@ -424304,6 +424304,9 @@
       "images_by_color": {
         "Чёрный": [
           "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_3180b5b25742_d04ae6a1.png"
+        ],
+        "Серебристый пион": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_91631f7c10cb_0df6c28b.png"
         ]
       },
       "preview_image_url": "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_91631f7c10cb_0df6c28b.png",

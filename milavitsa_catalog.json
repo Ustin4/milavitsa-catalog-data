@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-18T22:26:06+03:00",
+  "generated_at": "2026-11-18T23:03:28+03:00",
   "stock_as_of": null,
   "source_files": {
     "main": "Бланк.xls",
@@ -424288,6 +424288,9 @@
           "color_code": "#B7A0AA"
         }
       ],
+      "images": [
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_L80D50_accessory_185763515ad9.png"
+      ],
       "source_images_by_color": {}
     },
     {
@@ -424314,6 +424317,9 @@
           "color_code": "#B7A0AA"
         }
       ],
+      "images": [
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_L80D51_accessory_cdae170328aa.png"
+      ],
       "source_images_by_color": {}
     },
     {
@@ -424339,6 +424345,9 @@
           "is_special_offer": false,
           "color_code": "#B7A0AA"
         }
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_L80D52_accessory_80f02056f6af.png"
       ],
       "source_images_by_color": {}
     },

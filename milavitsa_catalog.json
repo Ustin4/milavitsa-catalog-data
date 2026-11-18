@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-18T23:03:28+03:00",
+  "generated_at": "2026-11-18T23:29:59+03:00",
   "stock_as_of": null,
   "source_files": {
     "main": "Бланк.xls",
@@ -423991,10 +423991,31 @@
         }
       ],
       "images": [
-        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_4a0f65e618fa_f6a5760a.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_b1f66d0cb428_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_01dd918d0617_e3b0c442.png",
         "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2fda2ae994d1_e2e1cc63.png",
-        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e077109512bc_05241839.png"
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e077109512bc_05241839.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2661cf1f934b_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2848e744a8ca_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_8966867abf98_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_c72de4bff0ee_e3b0c442.png"
       ],
+      "images_by_color": {
+        "Серебристый пион": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_b1f66d0cb428_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_8966867abf98_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_c72de4bff0ee_e3b0c442.png"
+        ],
+        "Черный": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_01dd918d0617_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e077109512bc_05241839.png"
+        ],
+        "Белый": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2fda2ae994d1_e2e1cc63.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2661cf1f934b_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2848e744a8ca_e3b0c442.png"
+        ]
+      },
       "source_images_by_color": {}
     },
     {
@@ -424154,8 +424175,25 @@
         }
       ],
       "images": [
-        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_4a0f65e618fa_f6a5760a.png"
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_4a0f65e618fa_f6a5760a.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_b1f66d0cb428_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_01dd918d0617_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2661cf1f934b_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_2848e744a8ca_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_8966867abf98_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_c72de4bff0ee_e3b0c442.png"
       ],
+      "images_by_color": {
+        "Серебристый пион": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_4a0f65e618fa_f6a5760a.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_b1f66d0cb428_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_8966867abf98_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_c72de4bff0ee_e3b0c442.png"
+        ],
+        "Черный": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_01dd918d0617_e3b0c442.png"
+        ]
+      },
       "source_images_by_color": {}
     },
     {
@@ -424260,8 +424298,15 @@
         }
       ],
       "images": [
-        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_3180b5b25742_d04ae6a1.png"
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_3180b5b25742_d04ae6a1.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_91631f7c10cb_0df6c28b.png"
       ],
+      "images_by_color": {
+        "Чёрный": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_3180b5b25742_d04ae6a1.png"
+        ]
+      },
+      "preview_image_url": "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_91631f7c10cb_0df6c28b.png",
       "source_images_by_color": {}
     },
     {
@@ -424772,10 +424817,32 @@
         }
       ],
       "images": [
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_8f760efa3f1b_e3b0c442.png",
         "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_3d529fd7b0ab_a86bd815.png",
         "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e9d8eb6c1524_f12fd178.png",
-        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e7f964accead_835561a9.png"
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e7f964accead_835561a9.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_0c96b5623e99_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_f552d36a13fa_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_740d2a8fe38f_e3b0c442.png",
+        "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_5328ba7b5357_e3b0c442.png"
       ],
+      "images_by_color": {
+        "Белый": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_8f760efa3f1b_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_f552d36a13fa_e3b0c442.png"
+        ],
+        "Серебристый пион": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_3d529fd7b0ab_a86bd815.png"
+        ],
+        "Черный": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e9d8eb6c1524_f12fd178.png"
+        ],
+        "Крокус": [
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_e7f964accead_835561a9.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_740d2a8fe38f_e3b0c442.png",
+          "https://raw.githubusercontent.com/Ustin4/milavitsa-catalog-data/main/images/lauma/lauma_5328ba7b5357_e3b0c442.png"
+        ]
+      },
       "source_images_by_color": {}
     },
     {
